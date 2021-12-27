@@ -1,4 +1,4 @@
 payload:
-  # > Imhuso
+  # > Imhuso_Proxy
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,google.com
