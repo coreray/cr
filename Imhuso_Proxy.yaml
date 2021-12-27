@@ -1,0 +1,4 @@
+payload:
+  # > Imhuso
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,google.com
