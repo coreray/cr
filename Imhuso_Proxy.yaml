@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,onlinebanking.natwest.com
+  - DOMAIN-SUFFIX,addthis.com
