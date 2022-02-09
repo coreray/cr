@@ -5,3 +5,6 @@ payload:
   - DOMAIN-SUFFIX,authorize.net
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,onlinebanking.natwest.com
+  - DOMAIN-SUFFIX,addthis.com
+  - DOMAIN-SUFFIX,affiliatly.com
