@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,mobilewebsiteserver.com
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,denali-static.grammarly.com
+  - DOMAIN-SUFFIX,sarasbox.com
