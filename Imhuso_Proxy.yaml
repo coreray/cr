@@ -1,7 +1,7 @@
 payload:
   # > Imhuso_Proxy
-  #- DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,lookah.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  #- DOMAIN-SUFFIX,lookah.com
   - DOMAIN-SUFFIX,authorize.net
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,googleapis.com
