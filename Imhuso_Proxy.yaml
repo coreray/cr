@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,denali-static.grammarly.com
   - DOMAIN-SUFFIX,sarasbox.com
+  - DOMAIN-SUFFIX,ip.sb
