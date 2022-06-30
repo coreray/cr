@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,mccdn.me
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,yarnpkg.com
