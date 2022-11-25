@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,api.cloudflare.com
