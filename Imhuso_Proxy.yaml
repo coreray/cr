@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,api.cloudflare.com
   - DOMAIN-SUFFIX,tidio.co
   - DOMAIN-SUFFIX,api-v2.tidio.co
+  - DOMAIN-SUFFIX,openai.com
