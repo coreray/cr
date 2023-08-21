@@ -1,7 +1,6 @@
 payload:
   # > Imhuso_Proxy
   - DOMAIN-SUFFIX,cloudflare.com
-  #- DOMAIN-SUFFIX,lookah.com
   - DOMAIN-SUFFIX,authorize.net
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,googleapis.com
@@ -9,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,addthis.com
   - DOMAIN-SUFFIX,affiliatly.com
   - DOMAIN-SUFFIX,redditstatic.com
-  - DOMAIN-SUFFIX,alabama.gov
   - DOMAIN-SUFFIX,grasscity.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,gotobuuy.com
