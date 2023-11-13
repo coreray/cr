@@ -1,5 +1,6 @@
-# > Imhuso_Reject
+# > Reject
 DOMAIN-SUFFIX,yikongyun.com.cn
 DOMAIN-SUFFIX,otheve.beacon.qq.com
 DOMAIN-SUFFIX,get.sogou.com
 PROCESS-NAME,SogouInput
+DOMAIN-SUFFIX,segment.io
