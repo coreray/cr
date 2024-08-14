@@ -73,3 +73,5 @@ DOMAIN,repo.maven.apache.org
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN,registry.npmjs.org
+DOMAIN-SUFFIX,ghcr.monlor.com
+
